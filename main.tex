@@ -1,0 +1,23 @@
+% !TEX producer = dvipdfmx -I 24
+\documentclass[b5paper,dvipdfmx,tombo,openany,papersize]{jsbook}
+
+% 表示位置の調整
+\setlength{\fullwidth}{\oddsidemargin}
+\setlength{\oddsidemargin}{\evensidemargin}
+\setlength{\evensidemargin}{\fullwidth}
+\setlength{\fullwidth}{\textwidth}
+
+\begin{document}
+\begin{center} % 表紙
+	\thispagestyle{empty}
+	\vspace*{20mm}
+	\textbf{\Huge MATLABワンライナー\\100本ノック} \\\vspace{10mm}
+	\textbf{\LARGE ～MATLABが1行で実現する100のこと～} \\\vspace{100mm}
+	\textbf{\Large 高木 智章　博士（工学）著} \\\vspace{20mm}
+	\textbf{\Large 2023年11月12日　初版発行}
+\end{center}
+
+
+\include{last} % 著者紹介 + 奥付
+
+\end{document}
