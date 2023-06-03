@@ -17,3 +17,8 @@ This is the repository for the book "MATLAB one liner 100 knocks".
 - Solver-Based Optimization in MATLAB: https://www.mathworks.com/content/dam/mathworks/fact-sheet/solver-based-optimization-in-matlab-cheat-sheet.pdf
 - Symbolic Math Toolbox: Quick Reference Sheet: https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/academia/courseware/teaching-calculus-with-matlab/symbolic-toolbox-quick-reference-sheet.pdf
 - MATLAB Fundamentals - Cheat Sheet - Tools Course ETH Zurich: https://n.ethz.ch/~marcokre/download/ML-CheatSheet.pdf
+- 数式で理解を促進する【MATLAB数式処理入門】: https://jp.mathworks.com/content/dam/mathworks/mathworks-dot-com/company/events/webinar-cta/3864850-Presentation.pdf
+- MATLABによる最適化入門: https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/solutions/automotive/files/jp-expo-2013/optimization-with-matlab.pdf
+- 最適化入門: https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/solutions/automotive/files/jp-expo-2014/optimization-basic.pdf
+- 最適化による課題解決とパフォーマンス向上: https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/solutions/automotive/files/jp-expo-2015/matlab-optimization.pdf
+- ものづくりのための数理モデルの最適化: https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/jp/2016/d3-optimizaton-for-mathmodel.pdf
